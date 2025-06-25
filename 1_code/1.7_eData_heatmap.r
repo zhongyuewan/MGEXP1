@@ -168,7 +168,7 @@ library(ggord)
 library(pairwiseAdonis)
 
 ## set WD 
-setwd("/Users/moicomputer/Library/CloudStorage/OneDrive-TheUniversityofHongKong-Connect/#2 PhD/#2 research project/#1 biodiveristy/#2 CRF EXP1/#2 dataAnalysis_all/1_data/environmental")
+setwd("/filepath")
 rm(list=ls())
 
 # read file i am only getting the middle data, so all sites should have 12 data point (1/month) by the end
