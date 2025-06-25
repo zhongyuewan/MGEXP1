@@ -4,7 +4,7 @@
 # aliged each of the 10reads seqeunce file to all of the 2,500 read alighed file and then merge all the aligned reads. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 1 data preperation break down our sequence table into 10 reads/file 
+# 1/4 data preperation break down our sequence table into 10 reads/file 
 ## load lib
 library(Biostrings)
 library(dplyr)
@@ -45,7 +45,7 @@ breakDown(sequenceTable, 10) # after breakdown, there are 3626 .fasta files with
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 2 align 
+# 2/4 align 
 # before running this, read the following so you know what's going on 
 # This code is NOT THE BEST way to run one command in 6 files
 # so to align all the sequence files (in the following case 3626) with a section of the aligned AA db 
@@ -92,7 +92,7 @@ for (i in 1:3626) {
 }
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 3 Retrieve aligned sequence name and remove n-aligned reads 
+# 3/4 Retrieve aligned sequence name and remove n-aligned reads 
 # after the above step 2, there will be 3626 .csv file (1 from each mini alignment) in each of the 6 AA alignment file. 
 # now i just need to read all the 3626 x 6 .csv file and retrieve all the successful alignment id for downstream analysis 
 
@@ -130,7 +130,7 @@ length(alignedSeq)
 writeLines(alignedSeq, file.path(dirname(getwd()),paste0("alignedSeq",j,".txt")))
 }
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 4 lastly move all the alignedSeqx.txt (1~6) file to the same folder and runs some quick codes to mergy all of them 
+# 4/4 lastly move all the alignedSeqx.txt (1~6) file to the same folder and runs some quick codes to mergy all of them 
 
 
 ## load lib
