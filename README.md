@@ -19,12 +19,15 @@ For more details, please refer to the [preprint_pending](link)
 ## Table of Contents
 
 ### Raw sequence data from [xxx](link)
-### Full dataset including
-  1. [Metadata]()
-  2. [Frequency table]()
-  3. [Sequence table]()
-  4. [Taxonomic assignment]() 
 
+### Supporting Materials 
+  1. [Metadata](link)
+  2. [Frequency table](link)
+  3. [Sequence table](link)
+  4. [Taxonomic assignment](link)
+  5. [Figures](link)
+  6. [Tables](link)
+  7. [Supplementary Materials](link)
 
 ### All codes for sequence processing and data analysis. Specifically:
 - Raw DNA sequence processing follows the following steps:
