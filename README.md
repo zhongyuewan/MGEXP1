@@ -33,14 +33,14 @@ For more details, please refer to the [preprint_pending](link)
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
 2. [Denoise-paired](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.2_denoiseAndPair.sh): remove sequences likely induced by error and merge the reverse/forward reads.
 3. [Decontam](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.3_decontam.r): a process to look into the negative control and remove sequences that might have come from sample contamination.
-4. [Amino Acid translation](link): translate DNA sequence into amino acid and remove sequences with any of the following: 1) stop codons, 2) >3 deletion, 3) frameshift, 4) insertion.
+4. [Amino Acid translation](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.4_aaTranslate.r): translate DNA sequence into amino acid and remove sequences with one of the following conditions: 1) any STOP codon, 2) >3 deletion, 3) any frameshift, 4) any insertion.
 5. [Cluster all sequences](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.5_clusterReads.sh) by 97% similarity into operational taxonomic units (OTUs) for downstream data analysis.
 6. [Taxonomic assignment](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.6_taxAssign.sh) with BLAST against two different libraries: 1) McIlroy et al. 2024 & Medori2 (GB260).
 
 ### Data Analysis 
 1. Environmental data
-   - [heatmap](link) (Figure 1, Table 1)
-   - [MPA east vs west](link) (Table S3)
+   - [Heatmap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.7_eData_heatmap.r) (Figure 1d, Table 1)
+   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.8_eastVSwest.r) (Table S3)
 2. Species richness by ARMS 
    - [Merge richness from all three fractions](link) (Table S1)
    - [Environmental data ~ species richness](link) (Table S2) 
