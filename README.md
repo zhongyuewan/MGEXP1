@@ -24,13 +24,10 @@ For more details, please refer to the [preprint_pending](link)
 
 ### Supporting Materials 
   1. [Raw sequence](link) 
-  2. [Metadata](link)
-  3. [Frequency table](link)
-  4. [Sequence table](link)
-  5. [Taxonomic assignment](link)
-  6. [Figures](link)
-  7. [Tables](link)
-  8. [Supplementary Materials](link)
+  2. [Metadata](3_data)
+  3. [Figures](link)
+  4. [Tables](link)
+  5. [Supplementary Materials](link)
 
 ### Sequence processing pipeline 
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
