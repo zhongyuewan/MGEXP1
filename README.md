@@ -25,7 +25,7 @@ For more details, please refer to the [preprint_pending](link)
 
 ### Supporting Materials 
   1. [Raw sequence](link) 
-  2. Data](3_data)
+  2. [Data](3_data)
   3. [Figures](link)
   4. [Tables](link)
   5. [Supplementary Materials](link)
