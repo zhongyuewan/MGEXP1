@@ -41,16 +41,16 @@ For more details, please refer to the [preprint_pending](link)
 ### Data Analysis 
 1. Environmental data
    - [Heatmap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.1_eData_heatmap.r) (Figure 1d, Table 1)
-   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.2_eastVSwest.r) (Table S3)
+   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.2_eastVSwest.r) (Table S4)
 2. Species richness by ARMS 
-   - [Merge richness from all three fractions](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.3_combinFractionbyARMS.r) (Table S1)
-   - [Environmental data ~ species richness](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.4_eDATAvsRichness.r) (Table S2) 
+   - [Merge richness from all three fractions](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.3_combinFractionbyARMS.r) (Table S2)
+   - [Environmental data ~ species richness](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.4_eDATAvsRichness.r) (Table 2) 
 3. Community composition
    - [PCoA](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.5_PCoA.r) (Figure 2)
-   - [Permutational Multivariate Analysis of Variance (adonis2)](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.6_adonis2.r) !!(double check this after review paper) !!
+   - [Permutational Multivariate Analysis of Variance (adonis2)](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.6_adonis2.r) 
    - [Ternary plot](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.7_ternary.r) (Figure S2)
    - [Horizontal barplot](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.8_sidewayBar.r) (Figure 3a)
    - [Resistance composition](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.9_resistanceComposition.r)(Figure 3b)
 4. Succession
-   - [Total richness and by phyla](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.10_succession.r) (Figure 4, Table S4)
+   - [Total richness and by phyla](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.10_succession.r) (Figure 4, Table S2)
      
