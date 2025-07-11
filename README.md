@@ -28,7 +28,7 @@ For more details, please refer to the [preprint_pending](link)
   2. [Data](3_data)
   3. [Figures](2_figure/merge_figure_250703.pdf)
   4. [Tables](2_figure/merge_table_250703.pdf)
-  5. [Supplementary Materials](link)
+  5. [Supplementary Materials](2_figure/250711_supplementaryMaterials.pdf)
 
 ### Sequence processing pipeline 
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
