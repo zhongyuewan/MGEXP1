@@ -24,7 +24,7 @@ For more details, please refer to the [preprint_pending](link)
 ## Table of Contents
 
 ### Supporting Materials 
-  1. [Raw sequence](link) 
+  1. [Raw sequence](https://doi.org/10.6084/m9.figshare.29481053) 
   2. [Data](3_data)
   3. [Figures](2_figure/merge_figure_250703.pdf)
   4. [Tables](2_figure/merge_table_250703.pdf)
