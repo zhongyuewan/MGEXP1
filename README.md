@@ -26,8 +26,8 @@ For more details, please refer to the [preprint](https://doi.org/10.1101/2025.07
 ### Supporting Materials 
   1. [Raw sequence](https://doi.org/10.6084/m9.figshare.29481053) 
   2. [Data](3_data)
-  3. [Figures](2_figure/merge_figure_250703.pdf)
-  4. [Tables](2_figure/merge_table_250703.pdf)
+  3. [Figures](2_figure/250725_merge_figure.pdf)
+  4. [Tables](2_figure/250703_merge_table.pdf)
   5. [Supplementary Materials](2_figure/250711_supplementaryMaterials.pdf)
 
 ### Sequence processing pipeline 
