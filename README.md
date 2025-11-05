@@ -27,9 +27,9 @@ For more details, please refer to the [preprint](https://doi.org/10.1101/2025.07
 ### Supporting Materials 
   1. [Raw sequence](https://doi.org/10.6084/m9.figshare.29481053) 
   2. [Data](3_data)
-  3. [Figures](2_figure/250806_merge_figure.pdf)
-  4. [Tables](2_figure/250703_merge_table.pdf)
-  5. [Supplementary Materials](2_figure/250711_supplementaryMaterials.pdf)
+  3. [Figures](2_figure/251102_mergeFigure.pdf)
+  4. [Tables](2_figure/251102_mergeTable.pdf)
+  5. [Supplementary Materials](2_figure/251105_supplementaryMaterials.pdf)
 
 ### Sequence processing pipeline 
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
@@ -42,16 +42,13 @@ For more details, please refer to the [preprint](https://doi.org/10.1101/2025.07
 ### Data Analysis 
 1. Environmental data
    - [Heatmap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.1_eData_heatmap.r) (Figure 1d, Table 1)
-   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.2_eastVSwest.r) (Table S4)
+   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.2_eastVSwest.r) (Table S2)
 2. Species richness by ARMS 
-   - [Merge richness from all three fractions](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.3_combinFractionbyARMS.r) (Table S2)
+   - [Merge richness from all three fractions](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.3_combinFractionbyARMS.r) (Table S1)
    - [Environmental data ~ species richness](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.4_eDATAvsRichness.r) (Table 2) 
 3. Community composition
    - [PCoA](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.5_PCoA.r) (Figure 2)
    - [Permutational Multivariate Analysis of Variance (adonis2)](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.6_adonis2.r) 
-   - [Ternary plot](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.7_ternary.r) (Figure S2)
-   - [Horizontal barplot](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.8_sidewayBar.r) (Figure 3a)
-   - [Resistance composition](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.9_resistanceComposition.r)(Figure 3b)
-4. Succession
-   - [Total richness and by phyla](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.10_succession.r) (Figure 4, Table S2)
+   - [Horizontal barplot](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.8_sidewayBar.r) (Figure 3)
+
      
