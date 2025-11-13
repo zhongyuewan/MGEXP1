@@ -1,16 +1,6 @@
 # Autonomous Reef Monitoring Structures (ARMS) Reveal Human-Induced Biodiversity Shifts in Urban Coastal Ecosystems
 
-#### Zhongyue Wan <sup>1,2,†</sup>, Shelby E. McIlroy <sup>1,2,3,†</sup>, Isis Guibert <sup>1,2</sup>, Wing Yi Haze Chung <sup>1,2,4</sup>, Charlotte Ho <sup>1,2,5</sup>, Wan Ching Rachel Au <sup>1,2</sup>, Joseph Brennan <sup>1,2</sup>, Ling Fung Matt Chan <sup>1,2</sup>, Emily Chei <sup>1,2</sup>, Inga Conti-Jerpe <sup>6</sup>, Alison Corley <sup>1,2</sup>, Jonathan D. Cybulski <sup>1,2</sup>, Róisín Hayden <sup>1,2</sup>, Shan Yee Joyce Lee <sup>1,2</sup>, Wendy McLeod <sup>1,2</sup>, Philip Thompson <sup>1,2</sup>, & David M. Baker <sup>1,2,*</sup> 
-
-1 The Swire Institute of Marine Science, The University of Hong Kong, Cape D’Aguilar Road, Shek O, Hong Kong SAR <br>
-2 School of Biological Sciences, The University of Hong Kong, Pok Fu Lam, Hong Kong SAR <br>
-3 Simon F. S. Li Marine Science Laboratory, School of Life Sciences, The Chinese University of Hong Kong, Shatin, Hong Kong SAR <br>
-4 Department of Biology, University of Oxford, Oxford, UK <br>
-5 Tree of Life, Wellcome Sanger Institute, Hinxton, Cambridge, UK <br>
-6 Lingnan University, Tuen Mun, Hong Kong SAR <br>
-
-`†` These authors contributed equally to the work and should be considered as joint first author. <br>
-`*` Corresponding author
+#### author list hidden for double-anonymised review 
 
 ## Abstract 
 
