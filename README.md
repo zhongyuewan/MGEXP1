@@ -17,9 +17,9 @@ Urbanization and the global growth of coastal megacities impose an array of stre
 ### Supporting Materials 
   1. [Raw sequence](https://doi.org/10.6084/m9.figshare.29481053) 
   2. [Data](3_data)
-  3. [Figures](2_figure/251102_mergeFigure.pdf)
-  4. [Tables](2_figure/251102_mergeTable.pdf)
-  5. [Supplementary Materials](2_figure/251105_supplementaryMaterials.pdf)
+  3. [Figures](2_figure/260304_mergeFigure.pdf)
+  4. [Tables](2_figure/260304_mergeTable.pdf)
+  5. [Supplementary Materials](2_figure/260305_supplementaryMaterials_FIN.docx)
 
 ### Sequence processing pipeline 
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
